@@ -658,6 +658,7 @@ t形管CP_CORE8
 t形针CP_CORE23
 t恤CP_CORE876817
 t-恤CP_CORE50
+T恤CP_CORE100
 t恤v领CP_CORE2570
 t恤印花CP_CORE3309
 t恤杉CP_CORE88
@@ -1606,7 +1607,6 @@ y架CP_CORE4
 不干胶贴CP_CORE4516
 不开机CP_CORE306
 不掉鞋CP_CORE391
-不无竹CP_CORE42
 不易茶CP_CORE100
 不沾刀CP_CORE12
 不沾垫CP_CORE18
@@ -1627,18 +1627,14 @@ y架CP_CORE4
 不粘纸CP_CORE46
 不粘锅CP_CORE4946
 不织布CP_CORE3436
-不绣钢CP_CORE1344
 不老松CP_CORE33
 不老林CP_CORE52
 不老草CP_CORE40
 不良品CP_CORE125
 不良裙CP_CORE1
 不贴锅CP_CORE100
-不透钢CP_CORE20
-不锈刚CP_CORE143
 不锈板CP_CORE3
 不锈架CP_CORE2
-不锈纲CP_CORE12
 不锈钢CP_CORE282980
 不锈钢丝CP_CORE1474
 不锈钢刀CP_CORE539
@@ -1723,7 +1719,6 @@ y架CP_CORE4
 专业鞋CP_CORE36
 专业音响CP_CORE267
 专卖柜CP_CORE3
-专柜CP_CORE99506
 专柜帽CP_CORE11
 专柜裤CP_CORE8
 专柜鞋CP_CORE17
@@ -2173,7 +2168,6 @@ y架CP_CORE4
 中堂桌CP_CORE7
 中堂画CP_CORE1552
 中壳CP_CORE573
-中大号CP_CORE748
 中央空调CP_CORE2456
 中央锁CP_CORE69
 中夹CP_CORE9
@@ -5563,7 +5557,6 @@ y架CP_CORE4
 保温钉CP_CORE44
 保温锅CP_CORE146
 保温鞋CP_CORE9
-保湿CP_CORE142503
 保湿乳CP_CORE1957
 保湿剂CP_CORE95
 保湿包CP_CORE454
@@ -5592,7 +5585,6 @@ y架CP_CORE4
 保溫箱CP_CORE5
 保溫罐CP_CORE1
 保溫袋CP_CORE1
-保濕CP_CORE397
 保焊机CP_CORE284
 保管柜CP_CORE199
 保管盒CP_CORE21
@@ -5646,7 +5638,6 @@ y架CP_CORE4
 保險箱CP_CORE100
 保饭盒CP_CORE2
 保鮮袋CP_CORE100
-保鲜CP_CORE6557
 保鲜剂CP_CORE298
 保鲜包CP_CORE351
 保鲜参CP_CORE146
@@ -12091,7 +12082,6 @@ y架CP_CORE4
 包衣柜CP_CORE96
 包衣袋CP_CORE100
 包袋CP_CORE12777
-包装CP_CORE48204
 包装包CP_CORE384
 包装卷CP_CORE70
 包装品CP_CORE5
@@ -12214,7 +12204,6 @@ y架CP_CORE4
 匕首CP_CORE78
 化乳机CP_CORE100
 化合物CP_CORE387
-化妆CP_CORE17605
 化妆凳CP_CORE763
 化妆刷CP_CORE3472
 化妆刷包CP_CORE84
@@ -12267,7 +12256,6 @@ y架CP_CORE4
 化妆镜梳CP_CORE56
 化妆镜灯CP_CORE97
 化妆镜面CP_CORE26
-化妝CP_CORE121
 化妝桌CP_CORE100
 化妝棉CP_CORE1
 化妝椅CP_CORE100
@@ -14057,7 +14045,6 @@ y架CP_CORE4
 卷髮棒CP_CORE3
 卷鱼板CP_CORE100
 卸唇巾CP_CORE100
-卸妆CP_CORE5430
 卸妆乳CP_CORE1020
 卸妆巾CP_CORE179
 卸妆棉CP_CORE1425
@@ -20944,7 +20931,6 @@ y架CP_CORE4
 塑箱CP_CORE9
 塑粉CP_CORE24
 塑纤果CP_CORE100
-塑编CP_CORE77
 塑编袋CP_CORE100
 塑背CP_CORE1
 塑胶CP_CORE8706
@@ -23282,6 +23268,7 @@ y架CP_CORE4
 大麦粒CP_CORE25
 大麦粥CP_CORE14
 大麦芽CP_CORE41
+大麦芽茶CP_CORE100
 大麦苗CP_CORE5
 大麦苗粉CP_CORE24
 大麦茶CP_CORE870
@@ -31645,7 +31632,6 @@ y架CP_CORE4
 床盖CP_CORE1321
 床盖垫CP_CORE1
 床硬板CP_CORE24
-床神器CP_CORE169
 床禄垫CP_CORE100
 床窝CP_CORE7
 床立柜CP_CORE100
@@ -48718,7 +48704,6 @@ y架CP_CORE4
 棕皮CP_CORE19
 棕竹CP_CORE255
 棕糖CP_CORE14
-棕编CP_CORE5
 棕色包CP_CORE38
 棕色帽CP_CORE1
 棕色梯CP_CORE15
@@ -49546,6 +49531,7 @@ y架CP_CORE4
 橙子酱CP_CORE2
 橙果CP_CORE97
 橙橘CP_CORE21
+橙水CP_CORE12
 橙汁CP_CORE504
 橙汁器CP_CORE21
 橙汁机CP_CORE41
@@ -53915,7 +53901,6 @@ y架CP_CORE4
 洁牙骨CP_CORE151
 洁耳器CP_CORE115
 洁耳油CP_CORE8
-洁肤CP_CORE1752
 洁肤乳CP_CORE417
 洁肤刷CP_CORE2
 洁肤品CP_CORE100
@@ -53932,7 +53917,6 @@ y架CP_CORE4
 洁镜纸CP_CORE100
 洁阴器CP_CORE29
 洁阴舒CP_CORE21
-洁面CP_CORE10206
 洁面乳CP_CORE14730
 洁面仪CP_CORE1394
 洁面刷CP_CORE504
@@ -54235,7 +54219,6 @@ y架CP_CORE4
 洗浴间CP_CORE23
 洗浴露CP_CORE5
 洗涑包CP_CORE10
-洗涤CP_CORE1244
 洗涤剂CP_CORE959
 洗涤剂瓶CP_CORE13
 洗涤品CP_CORE4
@@ -54439,7 +54422,6 @@ y架CP_CORE4
 洗臉器CP_CORE1
 洗臉巾CP_CORE100
 洗臉撲CP_CORE100
-洗茶CP_CORE42
 洗茶器CP_CORE100
 洗菜器CP_CORE5
 洗菜机CP_CORE54
@@ -54731,7 +54713,6 @@ y架CP_CORE4
 派對帽CP_CORE100
 派對服CP_CORE100
 派對裙CP_CORE100
-派派CP_CORE132
 派皮CP_CORE28
 派盒CP_CORE35
 派通笔CP_CORE7
@@ -54749,7 +54730,6 @@ y架CP_CORE4
 流槽CP_CORE3
 流氓帽CP_CORE69
 流氓灯CP_CORE372
-流水CP_CORE7732
 流水台CP_CORE734
 流水号CP_CORE65
 流水器CP_CORE88
@@ -60686,6 +60666,7 @@ y架CP_CORE4
 爽肤棉CP_CORE8
 爽肤水CP_CORE15004
 爽肤液CP_CORE119
+爽肤露CP_CORE100
 爽足粉CP_CORE4
 爽身液CP_CORE12
 爽身粉CP_CORE2669
@@ -60770,7 +60751,6 @@ y架CP_CORE4
 版画纸CP_CORE20
 版票CP_CORE767
 版纸CP_CORE536
-牌CP_CORE81257
 牌九CP_CORE194
 牌九桌CP_CORE100
 牌位CP_CORE317
@@ -62988,7 +62968,6 @@ y架CP_CORE4
 玻片柜CP_CORE100
 玻片盒CP_CORE87
 玻珠CP_CORE189
-玻璃CP_CORE181325
 玻璃丝CP_CORE481
 玻璃仪器CP_CORE873
 玻璃净CP_CORE13
@@ -66964,7 +66943,6 @@ y架CP_CORE4
 百虫杀CP_CORE4
 百虫灵CP_CORE441
 百衲衣CP_CORE1
-百褶CP_CORE42918
 百褶包CP_CORE185
 百褶帘CP_CORE8
 百褶衣CP_CORE12
@@ -69563,7 +69541,6 @@ y架CP_CORE4
 硅箱CP_CORE46
 硅纸CP_CORE1
 硅肥CP_CORE100
-硅胶CP_CORE137422
 硅胶丝CP_CORE12
 硅胶刀CP_CORE8
 硅胶刮CP_CORE382
@@ -69593,6 +69570,7 @@ y架CP_CORE4
 硅胶模CP_CORE1591
 硅胶灯CP_CORE192
 硅胶片CP_CORE140
+硅胶玻璃CP_CORE100
 硅胶球CP_CORE34
 硅胶瓶CP_CORE54
 硅胶皮CP_CORE535
@@ -72507,7 +72485,6 @@ y架CP_CORE4
 竹纤维袜CP_CORE432
 竹纤维被CP_CORE5
 竹纸巾CP_CORE100
-竹编CP_CORE3134
 竹编凳CP_CORE3
 竹编包CP_CORE48
 竹编垫CP_CORE7
@@ -74034,7 +74011,6 @@ y架CP_CORE4
 精华膜CP_CORE65
 精华霜CP_CORE2064
 精华露CP_CORE2816
-精品CP_CORE183939
 精品t恤CP_CORE780
 精品书CP_CORE65
 精品伞CP_CORE4
@@ -77298,7 +77274,6 @@ y架CP_CORE4
 绳礼盒CP_CORE16
 绳索CP_CORE477
 绳结CP_CORE726
-绳编CP_CORE332
 绳编包CP_CORE3
 绳网CP_CORE307
 绳耳机CP_CORE11
@@ -82818,6 +82793,7 @@ y架CP_CORE4
 花旗参片CP_CORE149
 花旗参粉CP_CORE15
 花旗松CP_CORE282
+花旗袍CP_CORE100
 花旦鞋CP_CORE1
 花曲柳CP_CORE25
 花月夜CP_CORE145
@@ -83118,7 +83094,6 @@ y架CP_CORE4
 花线CP_CORE589
 花结CP_CORE115
 花绳CP_CORE60
-花编CP_CORE18
 花缸CP_CORE69
 花罐CP_CORE27
 花网CP_CORE286
@@ -86365,7 +86340,6 @@ y架CP_CORE4
 藤篮CP_CORE210
 藤篮子CP_CORE20
 藤編包CP_CORE100
-藤编CP_CORE8307
 藤编凳CP_CORE18
 藤编包CP_CORE523
 藤编垫CP_CORE13
@@ -87129,7 +87103,6 @@ y架CP_CORE4
 蜂胶酒CP_CORE100
 蜂腊CP_CORE5
 蜂膠CP_CORE6
-蜂花CP_CORE298
 蜂花粉CP_CORE385
 蜂花粉片CP_CORE7
 蜂蛹CP_CORE26
@@ -91059,7 +91032,6 @@ y架CP_CORE4
 贵妇犬CP_CORE36
 贵妇狗CP_CORE13
 贵妇裙CP_CORE2
-贵宾CP_CORE9382
 贵宾卡CP_CORE728
 贵宾椅CP_CORE20
 贵宾犬CP_CORE1372
@@ -92783,7 +92755,6 @@ y架CP_CORE4
 软壳蟹CP_CORE4
 软壳衣CP_CORE901
 软壳裤CP_CORE879
-软头CP_CORE1863
 软头勺CP_CORE290
 软头笔CP_CORE103
 软套CP_CORE11127
@@ -101890,7 +101861,6 @@ y架CP_CORE4
 除氨CP_CORE17
 除氯CP_CORE297
 除水剂CP_CORE56
-除水垢CP_CORE416
 除污CP_CORE354
 除污剂CP_CORE56
 除污器CP_CORE25
@@ -101926,9 +101896,7 @@ y架CP_CORE4
 除烟机CP_CORE11
 除球器CP_CORE56
 除甲醛CP_CORE8917
-除疤CP_CORE141
 除疤膏CP_CORE20
-除皱CP_CORE541
 除皱针CP_CORE100
 除皱霜CP_CORE11
 除眼袋CP_CORE57
@@ -101975,7 +101943,6 @@ y架CP_CORE4
 除蜡CP_CORE47
 除蜡剂CP_CORE18
 除蜡水CP_CORE39
-除螨CP_CORE2803
 除螨仪CP_CORE282
 除螨包CP_CORE129
 除螨器CP_CORE28
@@ -102016,16 +101983,13 @@ y架CP_CORE4
 陪嫁镜CP_CORE100
 陪护床CP_CORE275
 陪护椅CP_CORE57
-陪陪CP_CORE100
 陰陽袋CP_CORE100
 陳列架CP_CORE100
 陶CP_CORE1998
 陶人CP_CORE109
-陶俑CP_CORE55
 陶偶CP_CORE801
 陶制CP_CORE177
 陶制品CP_CORE14
-陶吧CP_CORE68
 陶器CP_CORE514
 陶土CP_CORE1270
 陶土机CP_CORE12
@@ -102449,7 +102413,6 @@ y架CP_CORE4
 雅蜜CP_CORE177
 雅迪斯CP_CORE8
 雅阁灯CP_CORE3
-雅霜CP_CORE40
 集中器CP_CORE36
 集中箱CP_CORE100
 集乳器CP_CORE6
@@ -102472,7 +102435,6 @@ y架CP_CORE4
 集成灯CP_CORE52
 集成灶CP_CORE119
 集料CP_CORE56
-集显CP_CORE188
 集气罩CP_CORE4
 集气袋CP_CORE3
 集水器CP_CORE49
@@ -103345,6 +103307,7 @@ y架CP_CORE4
 青萝卜CP_CORE229
 青葙子CP_CORE15
 青葡萄CP_CORE98
+青葡萄干CP_CORE100
 青葱CP_CORE198
 青蒜CP_CORE101
 青蒿CP_CORE54
@@ -108609,7 +108572,6 @@ y架CP_CORE4
 鹌鹑肉CP_CORE13
 鹌鹑蛋CP_CORE389
 鹌鹑蛋机CP_CORE12
-鹏CP_CORE3918
 鹗CP_CORE14
 鹚CP_CORE23
 鹜CP_CORE8
@@ -109890,6 +109852,7 @@ y架CP_CORE4
 黑菜CP_CORE54
 黑萝卜CP_CORE11
 黑葡萄CP_CORE92
+黑葡萄干CP_CORE100
 黑葫芦CP_CORE7
 黑蒜CP_CORE287
 黑蒜头CP_CORE75
